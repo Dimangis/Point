@@ -1,0 +1,2 @@
+# Point
+My class Point
